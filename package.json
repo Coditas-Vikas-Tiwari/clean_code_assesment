@@ -1,0 +1,14 @@
+{
+  "name": "order-processing-system",
+  "version": "1.0.0",
+  "description": "A Node.js backend application for managing product catalog and order processing for an e-commerce website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
